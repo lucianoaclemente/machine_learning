@@ -3,3 +3,6 @@ Portfólio de casos de estudo utilizando diversas aplicações de algoritmos de 
 
 **Análise linear dos atributos para aumento do gasto anual dos clientes através de e-commerce.**
 [regressao_linear_gasto_anual_cliente.ipynb](regressao_linear_gasto_anual_cliente.ipynb)
+
+**Análise linear dos atributos, correlações e efeitos no tempo de entrega.**
+[regressao_linear_pizzaria.ipynb](regressao_linear_pizzaria.ipynb)
