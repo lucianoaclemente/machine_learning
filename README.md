@@ -6,3 +6,6 @@ Portfólio de casos de estudo utilizando diversas aplicações de algoritmos de 
 
 **Análise linear dos atributos, correlações e efeitos no tempo de entrega.**<br/>
 [regressao_linear_pizzaria.ipynb](regressao_linear_pizzaria.ipynb)
+
+**Análise linear dos atributos, correlações para predição do total de curtidas por período.**<br/>
+[regressao_linear_analise_metricas_facebook.ipynb](regressao_linear_analise_metricas_facebook.ipynb)
