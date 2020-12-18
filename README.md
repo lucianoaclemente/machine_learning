@@ -12,3 +12,6 @@ Portfólio de casos de estudo utilizando diversas aplicações de algoritmos de 
 **Predição da quantidade de curtidas de páginas do Facebook e análise das correlações.**<br/>
 **Regressão Linear**<br/>
 [analise_metricas_facebook.ipynb](analise_metricas_facebook.ipynb)
+
+**Apresentação dos casos confirmados e média móvel de covid-19 através de scatter utilizando a biblioteca plotly**
+[analise_casos_covid_19.ipynb](analise_casos_covid_19.ipynb)
