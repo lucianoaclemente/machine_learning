@@ -14,5 +14,5 @@ Portfólio de casos de estudo utilizando diversas aplicações de algoritmos de 
 [analise_metricas_facebook.ipynb](analise_metricas_facebook.ipynb)
 
 **Predição em casos de obesidade.**<br/>
-**Decision Tree**<br/>
+**Árvore de decisão, Oversampling (SMOTE)**<br/>
 [analise-obesidade.ipynb](analise-obesidade.ipynb)
