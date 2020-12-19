@@ -15,4 +15,4 @@ Portfólio de casos de estudo utilizando diversas aplicações de algoritmos de 
 
 **Predição em casos de obesidade.**<br/>
 **Árvore de decisão, Oversampling (SMOTE)**<br/>
-[analise-obesidade.ipynb](analise-obesidade.ipynb)
+[analise_obesidade.ipynb](analise_obesidade.ipynb)
