@@ -12,3 +12,7 @@ Portfólio de casos de estudo utilizando diversas aplicações de algoritmos de 
 **Predição da quantidade de curtidas de páginas do Facebook e análise das correlações.**<br/>
 **Regressão Linear**<br/>
 [analise_metricas_facebook.ipynb](analise_metricas_facebook.ipynb)
+
+**Predição em casos de obesidade.**<br/>
+**Decision Tree**<br/>
+[analise-obesidade.ipynb](analise-obesidade.ipynb)
