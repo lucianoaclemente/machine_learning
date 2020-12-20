@@ -1,6 +1,8 @@
 # machine_learning
 Portfólio de casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de máquina.
 
+# Regressão
+
 **Aumento do gasto anual dos clientes através do uso através da análise dos coeficientes.**<br/>
 **Regressão Linear**<br/>
 [analise_gasto_anual_cliente.ipynb](analise_gasto_anual_cliente.ipynb)
@@ -12,6 +14,8 @@ Portfólio de casos de estudo utilizando diversas aplicações de algoritmos de 
 **Predição da quantidade de curtidas de páginas do Facebook e análise das correlações.**<br/>
 **Regressão Linear**<br/>
 [analise_metricas_facebook.ipynb](analise_metricas_facebook.ipynb)
+
+# Classificação
 
 **Predição em casos de obesidade.**<br/>
 **Árvore de decisão, Oversampling (SMOTE)**<br/>
