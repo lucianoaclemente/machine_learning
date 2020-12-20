@@ -24,7 +24,8 @@ Casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de
   <p>
 
 **Modelo para detecção de casos de obesidade.**<br/>
-**Árvore de decisão, Oversampling (SMOTE)**<br/>
+**Árvore de decisão, Oversampling (SMOTE), KNN**<br/>
 [analise_obesidade.ipynb](analise_obesidade.ipynb)
+[analise_obesidade_knn.ipynb](analise_obesidade_knn.ipynb)
 
 </details>
