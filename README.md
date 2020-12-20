@@ -2,8 +2,7 @@
 Portfólio de casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de máquina.
 
 <details>
-  <summary>Regressão</summary>
-  ##
+  <summary>Regressão</summary>  
   <p>
 
 **Aumento do gasto anual dos clientes através do uso através da análise dos coeficientes.**<br/>
@@ -21,8 +20,7 @@ Portfólio de casos de estudo utilizando diversas aplicações de algoritmos de 
 </details>
 
 <details>
-  <summary>Classificação</summary>
-  ##
+  <summary>Classificação</summary>  
   <p>
 
 **Predição em casos de obesidade.**<br/>
