@@ -1,5 +1,5 @@
 # machine_learning
-Portfólio de casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de máquina.
+Casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de máquina em fontes de dados públicas. 
 
 <details>
   <summary>Regressão</summary>  
