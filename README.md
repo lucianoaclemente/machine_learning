@@ -23,7 +23,7 @@ Portfólio de casos de estudo utilizando diversas aplicações de algoritmos de 
   <summary>Classificação</summary>  
   <p>
 
-**Predição em casos de obesidade.**<br/>
+**Modelo para detecção de casos de obesidade.**<br/>
 **Árvore de decisão, Oversampling (SMOTE)**<br/>
 [analise_obesidade.ipynb](analise_obesidade.ipynb)
 
