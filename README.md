@@ -20,7 +20,7 @@ Portfólio de casos de estudo utilizando diversas aplicações de algoritmos de 
 </details>
 
 <details>
-  <summaryClassificação</summary>
+  <summary>Classificação</summary>
   <p>
 
 **Predição em casos de obesidade.**<br/>
