@@ -1,21 +1,13 @@
 # machine_learning
 Portfólio de casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de máquina.
 
-## collapsible markdown?
-
 <details>
 <summary>
 
-# CLICK ME
+## Regressão
+
 </summary>
 <p>
-
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-
-## Regressão
 
 **Aumento do gasto anual dos clientes através do uso através da análise dos coeficientes.**<br/>
 **Regressão Linear**<br/>
