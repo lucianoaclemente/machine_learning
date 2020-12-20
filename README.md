@@ -2,6 +2,7 @@
 Portfólio de casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de máquina.
 
 ## Regressão
+#### teste
 
 **Aumento do gasto anual dos clientes através do uso através da análise dos coeficientes.**<br/>
 **Regressão Linear**<br/>
