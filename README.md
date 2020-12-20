@@ -1,11 +1,10 @@
 # machine_learning
 Portfólio de casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de máquina.
 
-<details>
-<summary>
-
 ## Regressão
 
+<details>
+<summary>
 </summary>
 <p>
 
@@ -22,6 +21,11 @@ Portfólio de casos de estudo utilizando diversas aplicações de algoritmos de 
 [analise_metricas_facebook.ipynb](analise_metricas_facebook.ipynb)
 
 ## Classificação
+
+<details>
+<summary>
+</summary>
+<p>
 
 **Predição em casos de obesidade.**<br/>
 **Árvore de decisão, Oversampling (SMOTE)**<br/>
