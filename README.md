@@ -2,8 +2,9 @@
 Casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de máquina em fontes de dados públicas. 
 
 ## Regressão
+<summary></summary>  
 <details>
-  <summary></summary>  
+  
   <p>
 
 **Aumento do gasto anual dos clientes através do uso através da análise dos coeficientes.**<br/>
