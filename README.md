@@ -3,7 +3,7 @@ Casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de
 
 ## Regressão
 <details>
-  <summary>Detalhes</summary>  
+  <summary></summary>  
   <p>
 
 **Aumento do gasto anual dos clientes através do uso através da análise dos coeficientes.**<br/>
@@ -22,7 +22,7 @@ Casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de
 
 ## Classificação
 <details>
-  <summary>Detalhes</summary>  
+  <summary></summary>  
   <p>
 
 **Modelo para detecção de casos de obesidade.**<br/>
