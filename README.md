@@ -2,7 +2,7 @@
 Casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de máquina em fontes de dados públicas. 
 
 <details>
-  <summary><h1>Regressão</h1></summary>  
+  <h1>Regressão</h1>
   <p>
 
 **Aumento do gasto anual dos clientes através do uso através da análise dos coeficientes.**<br/>
@@ -20,7 +20,7 @@ Casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de
 </details>
 
 <details>
-  <summary><h1>Classificação</h1></summary>  
+  <h1>Classificação</h1>
   <p>
 
 **Modelo para detecção de casos de obesidade.**<br/>
