@@ -28,4 +28,8 @@ Casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de
 [analise_obesidade.ipynb](analise_obesidade.ipynb)<br/>
 [analise_obesidade_knn.ipynb](analise_obesidade_knn.ipynb)
 
+**Previsão de acesso ao link publicitário através dos perfis dos usuários.**<br/>
+**Regressão Logística**<br />
+[analise_publicidade.ipynb](analise_publicidade.ipynb)<br/>
+
 </details>
