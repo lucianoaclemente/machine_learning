@@ -2,7 +2,7 @@
 Casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de máquina em fontes de dados públicas. 
 
 <details>
-  <summary><h2>Regressão</h2></summary>   
+  <summary><h2 style='display: inline;'>Regressão</h2></summary>   
 
 **Aumento do gasto anual dos clientes através do uso através da análise dos coeficientes.**<br/>
 **Regressão Linear**<br/>
@@ -19,7 +19,7 @@ Casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de
 </details>
 
 <details>
-  <summary><h2>Classificação</h2></summary>  
+  <summary><h2 style='display: inline;'>Classificação</h2></summary>  
 
 **Modelo para detecção de casos de obesidade.**<br/>
 **Árvore de decisão, Oversampling (SMOTE), KNN (instâncias)**<br/>
