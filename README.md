@@ -1,10 +1,8 @@
 # machine_learning
 Casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de máquina em fontes de dados públicas. 
 
-
 <details>
-  ## Regressão
-  <summary></summary>  
+  <summary><h1>Regressão</h1></summary>  
   <p>
 
 **Aumento do gasto anual dos clientes através do uso através da análise dos coeficientes.**<br/>
@@ -21,10 +19,8 @@ Casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de
 
 </details>
 
-
 <details>
-  ## Classificação
-  <summary></summary>  
+  <summary><h1>Classificação</h1></summary>  
   <p>
 
 **Modelo para detecção de casos de obesidade.**<br/>
