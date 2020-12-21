@@ -1,8 +1,9 @@
 # machine_learning
 Casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de máquina em fontes de dados públicas. 
 
-## Regressão
+
 <details>
+  ## Regressão
   <summary></summary>  
   <p>
 
@@ -20,8 +21,9 @@ Casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de
 
 </details>
 
-## Classificação
+
 <details>
+  ## Classificação
   <summary></summary>  
   <p>
 
