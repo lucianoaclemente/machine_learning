@@ -17,6 +17,10 @@ Casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de
 **Regressão Linear**<br/>
 [analise_metricas_facebook.ipynb](analise_metricas_facebook.ipynb)
 
+**Predição da idade de amostras de abalones através de características.**<br/>
+**Regressão Linear, PCA**<br/>
+[analise_abalone.ipynb.ipynb](analise_abalone.ipynb.ipynb)
+
 </details>
 
 <details>
