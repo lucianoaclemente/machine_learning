@@ -36,7 +36,7 @@ Casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de
 **Regressão Logística**<br />
 [analise_publicidade.ipynb](analise_publicidade.ipynb)<br/>
 
-**Indentificação de espécie de pinguins através das características**<br/>
+**Indentificação de espécies de pinguins através das características**<br/>
 **SVM, Decision Tree**<br/>
 [analise_pinguins.ipynb](analise_pinguins.ipynb)<br/>
 
