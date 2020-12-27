@@ -41,3 +41,13 @@ Casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de
 [analise_pinguins.ipynb](analise_pinguins.ipynb)<br/>
 
 </details>
+
+<details>
+  <summary><b>Agrupamento</b></summary>  
+  <p>
+
+**Análise das vendas de jogos de videogames por região.**<br/>
+**K-Means**<br/>
+[analise_venda_de_jogos.ipynb](analise_venda_de_jogos.ipynb)<br/>
+
+</details>
