@@ -37,8 +37,8 @@ Casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de
 [analise_publicidade.ipynb](analise_publicidade.ipynb)<br/>
 
 **Indentificação de espécies de pinguins através das características**<br/>
-**SVM, Decision Tree**<br/>
-[analise_pinguins.ipynb](analise_pinguins.ipynb)<br/>
+**Decision Tree**<br/>
+[analise_pinguins_decision_tree.ipynb](analise_pinguins_decision_tree.ipynb)<br/>
 
 </details>
 
