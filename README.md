@@ -50,7 +50,7 @@ Casos de estudo utilizando diversas aplicações de algoritmos de aprendizado de
 **K-Means**<br/>
 [analise_venda_de_jogos.ipynb](analise_venda_de_jogos.ipynb)<br/>
 
-Medium Stories
+Medium Stories<br />
 https://medium.com/@lucianoaclemente/an%C3%A1lise-de-vendas-de-jogos-de-videogames-utilizando-k-means-fcf1a2963088
 
 </details>
